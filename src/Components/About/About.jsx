@@ -18,6 +18,7 @@ const About = () => {
                 curriculum is designed to empower students with the knowledge,
                 skills and experiences needed to excel in the dynamic field of education.
             </p>
+            
             <p>
                 With a focus on innovation, hands-on learning, and personalized
                 mentorship, our programs prepare aspiring educators to make a
